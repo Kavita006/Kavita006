@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analytics & Visualization
 - 🌱 I’m currently learning SQL & Tableau
 - 💞️ I’m looking to collaborate on Data analysis projects
-- 📫 How to reach me kisrani802@gmail.com or https://www.linkedin.com/mwlite/in/kavita-israni-257b57198
+- 📫 How to reach me kavitaisrani71@gmail.com or https://www.linkedin.com/mwlite/in/kavita-israni-257b57198
 
 
 <!---
